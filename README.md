@@ -7,8 +7,11 @@ I am a fast-learning coder with many years of experience working in e-commerce a
 As an SEO specialist, I have the ability to combine technical development and Search Engine Optimization already in the early stages of planning, which helps to increase the visibility of digital solutions. I am looking for opportunities to develop as part of an innovative team and bring value with both customer-oriented design and technical expertise. I get excited about problem solving and, with my SEO expertise, also about data analysis.
 
 🔮 Fun fact: I thought coding was magic that I could never learn. Fortunately, I was wrong. ✨✨
+</br>
 🔭 I’m currently working on e-commerce
+</br>
 🌱 I'm currently studying more and more about programming
+</br>
 📫 Contact me by email at riikka.lilja@gmail.com
 
 ### 🖥️ Languages and tools
